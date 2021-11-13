@@ -6,7 +6,7 @@ We were adding phone lines in Cisco a couple times a week - with sets of 13 at a
 
 All of this resulted in losing valuable head count for customer bug deep dives, regression testing, QA testing bug fixes. etc.
 
-*we had to find a better way*
+*we had to find a better way* 😰
 
 I found out that Cisco Call Manager and UCCX didn't provide a robust API for programmatic install - blocking an easy, scripted way to automate the setups. 
 
@@ -28,7 +28,7 @@ I decided to use Selenium, instead of using it for QA'ing software, with Python 
  
  - We output a tab formatted JIRA comment
  
- - we create the AutoIT scripting that controls agents computers (selecting the correct database, etc. for LVM Systems)
+ - we create the AutoIT scripting that controls agents computers (selecting the correct database, etc. for LVM Systems) - 1 automation creating the code for another automation! 😀
  
  ## The outcome
  

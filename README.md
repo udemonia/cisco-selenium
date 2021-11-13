@@ -2,7 +2,7 @@
 
 Phone Line seupts cost my team of Techincal Support Engineers anywhere from 1/2 a day to multiple days to complete. Some projects, would even take monthts. 
 
-We were adding phone lines in Cisco a couple times a week - with sets of 13 at a time. Often, we'd get larget projects with sets of 500 + phone lines to setup
+We were adding phone lines in Cisco a couple times a week - with sets of 13 at a time. Often, we'd get larger projects with sets of 500 + phone lines to setup
 
 All of this resulted in losing valuable head count for customer bug deep dives, regression testing, QA testing bug fixes. etc.
 

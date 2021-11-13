@@ -12,7 +12,7 @@ I found out that Cisco Call Manager and UCCX didn't provide a robust API for pro
 
 I decided to use Selenium, instead of QA'ing software, with Python and Pandas, we used it to handle the manual data entry tasks for us.
 
-## how it works
+## How It Works
 
  - We read in a csv with all the line information pertinant to phone line setups
  

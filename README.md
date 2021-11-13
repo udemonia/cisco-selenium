@@ -10,7 +10,7 @@ All of this resulted in losing valuable head count for customer bug deep dives, 
 
 I found out that Cisco Call Manager and UCCX didn't provide a robust API for programmatic install - blocking an easy, scripted way to automate the setups. 
 
-I decided to use Selenium, instead of QA'ing software, with Python and Pandas, we used it to handle the manual data entry tasks for us.
+I decided to use Selenium, instead of using it for QA'ing software, with Python and Pandas, we leveraged it to handle the manual data entry tasks for us.
 
 ## How It Works
 
@@ -32,7 +32,7 @@ I decided to use Selenium, instead of QA'ing software, with Python and Pandas, w
  
  ## The outcome
  
- Phone line setups went from ~ 4 hours for a set of 13 to roughly 10 minutes - accuracy for phone setups was 100% error free
+ **Phone line setups went from ~ 4 hours for a set of 13 to roughly 10 minutes** - accuracy, a problem with manual, repetitive tasks, was 100%. Month long projects could be completed in a single day.
  
  ### Notes
  
